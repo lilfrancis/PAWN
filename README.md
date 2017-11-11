@@ -1,0 +1,2 @@
+# PAWN
+scripts for samp
